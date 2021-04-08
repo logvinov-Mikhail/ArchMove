@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'NewYork'; 
+	src: url(/fonts/NewYorkExtraLargeBold.otf); 
+}
+@font-face {
+	font-family: 'SFUIDisplay Regular'; 
+	src: url(/fonts/SFUIDisplay-Regular.ttf); 
+}
+@font-face {
+	font-family: 'SFUIDisplay Light'; 
+	src: url(/fonts/SFUIDisplay-Light.ttf); 
+}
+@font-face {
+	font-family: 'SFUIDisplay bold'; 
+	src: url(/fonts/SFUIDisplay-Bold.ttf); 
+}
+@font-face {
+	font-family: 'SFUIDisplay Semibold'; 
+	src: url(/fonts/SFUIDisplay-Semibold.ttf); 
+}
